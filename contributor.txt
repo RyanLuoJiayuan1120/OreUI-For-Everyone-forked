@@ -25,3 +25,4 @@ Re_Construction,sophisticatedcore
 Re_Construction,tconstruct
 Re_Construction,thermal
 Re_Construction,thermal_extra
+Delta,extendedcrafting
