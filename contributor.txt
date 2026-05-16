@@ -1,13 +1,17 @@
 [your_name],[mod_id][(additions)]
 Re_Construction,ae2(1.20.1适配)
+AL,aether
+AL,aether_redux
 Re_Construction,alexscaves
 Re_Construction,ali
+AL,betteradvancements
 Re_Construction,cofh_core
 jihan_hanhan,computercraft
 Re_Construction,create
 Re_Construction,create_connected
 Re_Construction,create_enchantment_industary
 Re_Construction,curios
+AL,curios(更新)
 Re_Construction,custommachinary
 Re_Construction,extremesoundmuffler
 Re_Construction,farmersdelight
