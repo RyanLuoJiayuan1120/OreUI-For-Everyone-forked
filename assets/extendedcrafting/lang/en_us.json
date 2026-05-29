@@ -75,10 +75,10 @@
   "item.extendedcrafting.ultimate_singularity": "Ultimate Singularity",
 
   "container.extendedcrafting.crafting_core": "§bCrafting Core",
-  "container.extendedcrafting.basic_table": "§bBasic Crafting",
-  "container.extendedcrafting.advanced_table": "§bAdvanced Crafting",
+  "container.extendedcrafting.basic_table": "§fBasic Crafting",
+  "container.extendedcrafting.advanced_table": "§eAdvanced Crafting",
   "container.extendedcrafting.elite_table": "§bElite Crafting",
-  "container.extendedcrafting.ultimate_table": "§bUltimate Crafting",
+  "container.extendedcrafting.ultimate_table": "§aUltimate Crafting",
   "container.extendedcrafting.compressor": "§bQuantum Compressor",
   "container.extendedcrafting.ender_crafter": "Ender Crafting",
   "container.extendedcrafting.flux_alternator": "Flux Alternator",

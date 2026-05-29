@@ -75,10 +75,10 @@
   "item.extendedcrafting.ultimate_singularity": "アルティメットシンギュラリティ",
 
   "container.extendedcrafting.crafting_core": "§bクラフトコア",
-  "container.extendedcrafting.basic_table": "§b基本クラフト",
-  "container.extendedcrafting.advanced_table": "§b発展クラフト",
+  "container.extendedcrafting.basic_table": "§f基本クラフト",
+  "container.extendedcrafting.advanced_table": "§e発展クラフト",
   "container.extendedcrafting.elite_table": "§b精鋭クラフト",
-  "container.extendedcrafting.ultimate_table": "§b究極クラフト",
+  "container.extendedcrafting.ultimate_table": "§a究極クラフト",
   "container.extendedcrafting.compressor": "§b量子圧縮機",
   "container.extendedcrafting.ender_crafter": "エンダークラフト",
   "container.extendedcrafting.flux_alternator": "フラックスオルタネーター",

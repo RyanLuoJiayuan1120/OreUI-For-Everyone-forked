@@ -64,10 +64,10 @@
   "item.extendedcrafting.ultimate_singularity": "최고 특이점",
 
   "container.extendedcrafting.crafting_core": "§b조합 코어",
-  "container.extendedcrafting.basic_table": "§b기본 조합",
-  "container.extendedcrafting.advanced_table": "§b고급 조합",
+  "container.extendedcrafting.basic_table": "§f기본 조합",
+  "container.extendedcrafting.advanced_table": "§e고급 조합",
   "container.extendedcrafting.elite_table": "§b엘리트 조합",
-  "container.extendedcrafting.ultimate_table": "§b최고 조합",
+  "container.extendedcrafting.ultimate_table": "§a최고 조합",
   "container.extendedcrafting.compressor": "§b양자 압축기",
   "container.extendedcrafting.ender_crafter": "엔더 조합",
 

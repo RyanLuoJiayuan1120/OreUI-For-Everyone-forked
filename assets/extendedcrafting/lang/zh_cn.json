@@ -75,10 +75,10 @@
   "item.extendedcrafting.ultimate_singularity": "终极奇点",
 
   "container.extendedcrafting.crafting_core": "§b合成核心",
-  "container.extendedcrafting.basic_table": "§b基础合成",
-  "container.extendedcrafting.advanced_table": "§b高级合成",
+  "container.extendedcrafting.basic_table": "§f基础合成",
+  "container.extendedcrafting.advanced_table": "§e高级合成",
   "container.extendedcrafting.elite_table": "§b精英合成",
-  "container.extendedcrafting.ultimate_table": "§b终极合成",
+  "container.extendedcrafting.ultimate_table": "§a终极合成",
   "container.extendedcrafting.compressor": "§b量子压缩机",
   "container.extendedcrafting.ender_crafter": "末影合成器",
   "container.extendedcrafting.flux_alternator": "通量发电机",

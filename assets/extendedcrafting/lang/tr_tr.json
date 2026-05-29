@@ -75,10 +75,10 @@
   "item.extendedcrafting.ultimate_singularity": "Nihai Tekillik",
 
   "container.extendedcrafting.crafting_core": "§bÜretim Çekirdeği",
-  "container.extendedcrafting.basic_table": "§bTemel Üretimi",
-  "container.extendedcrafting.advanced_table": "§bGelişmiş Üretimi",
+  "container.extendedcrafting.basic_table": "§fTemel Üretimi",
+  "container.extendedcrafting.advanced_table": "§eGelişmiş Üretimi",
   "container.extendedcrafting.elite_table": "§bElit Üretimi",
-  "container.extendedcrafting.ultimate_table": "§bNihai Üretimi",
+  "container.extendedcrafting.ultimate_table": "§aNihai Üretimi",
   "container.extendedcrafting.compressor": "§bKuantum Sıkıştırıcı",
   "container.extendedcrafting.ender_crafter": "Ender Üretimi",
   "container.extendedcrafting.flux_alternator": "Flux Alternatör",

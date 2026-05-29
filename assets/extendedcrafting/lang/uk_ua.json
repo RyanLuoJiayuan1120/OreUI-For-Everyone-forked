@@ -64,10 +64,10 @@
   "item.extendedcrafting.ultimate_singularity": "Ультимативна сингулярність",
 
   "container.extendedcrafting.crafting_core": "§bЯдро майстрування",
-  "container.extendedcrafting.basic_table": "§bБазове майстрування",
-  "container.extendedcrafting.advanced_table": "§bПросунуте майстрування",
+  "container.extendedcrafting.basic_table": "§fБазове майстрування",
+  "container.extendedcrafting.advanced_table": "§eПросунуте майстрування",
   "container.extendedcrafting.elite_table": "§bЕлітне майстрування",
-  "container.extendedcrafting.ultimate_table": "§bУльтимативне майстрування",
+  "container.extendedcrafting.ultimate_table": "§aУльтимативне майстрування",
   "container.extendedcrafting.compressor": "§bКвантовий компресор",
   "container.extendedcrafting.ender_crafter": "Майстрування Енду",
 

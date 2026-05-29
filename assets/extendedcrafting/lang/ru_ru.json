@@ -64,10 +64,10 @@
   "item.extendedcrafting.ultimate_singularity": "Максимальная сингулярность",
 
   "container.extendedcrafting.crafting_core": "§bЯдро создания",
-  "container.extendedcrafting.basic_table": "§bБазовый верстак",
-  "container.extendedcrafting.advanced_table": "§bПродвинутый верстак",
+  "container.extendedcrafting.basic_table": "§fБазовый верстак",
+  "container.extendedcrafting.advanced_table": "§eПродвинутый верстак",
   "container.extendedcrafting.elite_table": "§bЭлитный верстак",
-  "container.extendedcrafting.ultimate_table": "§bМаксимальная верстак",
+  "container.extendedcrafting.ultimate_table": "§aМаксимальная верстак",
   "container.extendedcrafting.compressor": "§bКвантовый компрессор",
   "container.extendedcrafting.ender_crafter": "Эндер-верстак",
 
