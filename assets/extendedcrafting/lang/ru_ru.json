@@ -1,0 +1,17 @@
+{
+
+	"container.extendedcrafting.crafting_core": "§bЯдро создания",
+	"container.extendedcrafting.basic_table": "§fБазовый верстак",
+	"container.extendedcrafting.advanced_table": "§eПродвинутый верстак",
+	"container.extendedcrafting.elite_table": "§bЭлитный верстак",
+	"container.extendedcrafting.ultimate_table": "§aМаксимальная верстак",
+	"container.extendedcrafting.compressor": "§bКвантовый компрессор",
+	"container.extendedcrafting.ender_crafter": "Эндер-верстак",
+
+	"screen.extendedcrafting.crafting_core.pedestals": "§bПьедесталы: %s",
+	"screen.extendedcrafting.crafting_core.power_cost": "§bЗатраты FE: %s",
+	"screen.extendedcrafting.crafting_core.power_rate": "§bНакоплено FE: %s",
+	"screen.extendedcrafting.crafting_core.no_recipe": "§bРецепт не найден.",
+	"screen.extendedcrafting.crafting_core.no_power": "§bНе хватает энергии."
+
+}

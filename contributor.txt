@@ -30,3 +30,8 @@ Re_Construction,tconstruct
 Re_Construction,thermal
 Re_Construction,thermal_extra
 Delta,extendedcrafting
+Delta,modularrouters
+Delta,chunkbychunk
+Delta,ftbquests(JEI适配)
+Delta,ae2(JEI适配)
+Delta,farmersdelight(JEI适配)
