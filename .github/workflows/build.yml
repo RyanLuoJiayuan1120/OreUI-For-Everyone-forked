@@ -11,11 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Permissions
-        run: chmod +x srdk
-
       - name: Build
-        run: ./srdk c task build
+        run: make
 
       - uses: actions/upload-artifact@v7
         with:
