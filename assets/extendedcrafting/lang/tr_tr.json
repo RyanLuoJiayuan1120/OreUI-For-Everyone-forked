@@ -1,0 +1,19 @@
+{
+
+	"container.extendedcrafting.crafting_core": "§bÜretim Çekirdeği",
+	"container.extendedcrafting.basic_table": "§fTemel Üretimi",
+	"container.extendedcrafting.advanced_table": "§eGelişmiş Üretimi",
+	"container.extendedcrafting.elite_table": "§bElit Üretimi",
+	"container.extendedcrafting.ultimate_table": "§aNihai Üretimi",
+	"container.extendedcrafting.compressor": "§bKuantum Sıkıştırıcı",
+	"container.extendedcrafting.ender_crafter": "Ender Üretimi",
+	"container.extendedcrafting.flux_alternator": "Flux Alternatör",
+	"container.extendedcrafting.flux_crafter": "Flux Üretimi",
+
+	"screen.extendedcrafting.crafting_core.pedestals": "§bKaideler: %s",
+	"screen.extendedcrafting.crafting_core.power_cost": "§bFE Maliyeti: %s",
+	"screen.extendedcrafting.crafting_core.power_rate": "§bFE Oranı: %s",
+	"screen.extendedcrafting.crafting_core.no_recipe": "§bTarif bulunamadı.",
+	"screen.extendedcrafting.crafting_core.no_power": "§bYeterli güç yok."
+
+}

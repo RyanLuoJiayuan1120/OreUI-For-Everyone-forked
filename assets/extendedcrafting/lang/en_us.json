@@ -1,0 +1,19 @@
+{
+
+	"container.extendedcrafting.crafting_core": "§bCrafting Core",
+	"container.extendedcrafting.basic_table": "§fBasic Crafting",
+	"container.extendedcrafting.advanced_table": "§eAdvanced Crafting",
+	"container.extendedcrafting.elite_table": "§bElite Crafting",
+	"container.extendedcrafting.ultimate_table": "§aUltimate Crafting",
+	"container.extendedcrafting.compressor": "§bQuantum Compressor",
+	"container.extendedcrafting.ender_crafter": "Ender Crafting",
+	"container.extendedcrafting.flux_alternator": "Flux Alternator",
+	"container.extendedcrafting.flux_crafter": "Flux Crafting",
+
+	"screen.extendedcrafting.crafting_core.pedestals": "§bPedestals: %s",
+	"screen.extendedcrafting.crafting_core.power_cost": "§bFE Cost: %s",
+	"screen.extendedcrafting.crafting_core.power_rate": "§bFE Rate: %s",
+	"screen.extendedcrafting.crafting_core.no_recipe": "§bNo recipe found.",
+	"screen.extendedcrafting.crafting_core.no_power": "§bNot enough power."
+
+}
