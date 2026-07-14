@@ -1,6 +1,7 @@
 <img width="165" height="20" alt="logo" src="https://github.com/user-attachments/assets/e3b6b662-ca36-4076-ac68-0b76534ae1a6" />
 
 ~~ 本资源包将AE2的UI风格移植到了其他模组上 ~~
+
 还把它往高版本移植了
 
 欢迎您制作其他模组的兼容，您可以把你的名字及贡献写到 `contributor.csv` 中
