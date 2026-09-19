@@ -182,3 +182,7 @@ Re_Construction, thermal_extra
 Delta, torcherino
 
 Re_Construction, titanium
+
+OnDreamQwQ, draconicevolution
+
+OnDreamQwQ, forbidden_arcanus
