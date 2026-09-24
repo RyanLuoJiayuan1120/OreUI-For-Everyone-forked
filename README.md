@@ -1,15 +1,12 @@
 <div align="center">
-  <h1>OreUI For Everyone</h1>
+  <h1>OreUI For Everyone-Forked</h1>
 
   <img src="readmeAssets/banner.png" width="512" alt="OreUI For Everyone 图标">
-
-  [![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-62B47A?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-  [![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/oreuife)
-  [![CurseForge](https://img.shields.io/badge/CurseForge-下载-F16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/texture-packs/oreui-for-everyone)
+  
   [![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 
-  <p><strong>让更多模组拥有统一、清爽的 AE2 OreUI 风格。</strong></p>
-  <p>面向 Minecraft Java Edition 1.20.1 的模组界面资源包。</p>
+  <p><strong>让更多模组拥有统一、清爽的 AE2 OreUI 风格。这是它的高版本移植，官方裁切器裁切。</strong></p>
+  <p>面向 Minecraft Java Edition 1.21+ 的模组界面资源包。</p>
 </div>
 
 ## 简介
@@ -55,8 +52,8 @@ cd OreUI-For-Everyone-1.20.1
 
 - [OreUI-For-Everyone-1.21.1](https://github.com/LiPolymer/OreUI-For-Everyone-1.21.1) [`GitLab`](https://gitlab.com/LiPolymer/OreUI-For-Everyone-1.21.1) - 本项目的 1.21+ 支持, 采用补丁形式存储 
     - 正式构建可在 OreUI-For-Everyone 的 Modrinth / CurseForge 页面获取, 测试构建请前往 [GitLab Pipelines](https://gitlab.com/LiPolymer/OreUI-For-Everyone-1.21.1/-/pipelines)
-- [OreUI-For-Everyone-forked](https://github.com/RyanLuoJiayuan1120/OreUI-For-Everyone-forked) - 本项目的 1.21+ 移植
-- [OreUIForEveryone-1.21.1-Extended](https://github.com/OnDreamQwQ/OreUIForEveryone-1.21.1-Extended) - 适用于1.21.1版本的 OreUI 扩展包
+- [OreUI-For-Everyone-forked](https://github.com/RyanLuoJiayuan1120/OreUI-For-Everyone-forked) - 本项目
+- [OreUIForEveryone-1.21.1-Extended](https://github.com/OnDreamQwQ/OreUIForEveryone-1.21.1-Extended) - 适用于1.21.1版本的 OreUI 扩展包（已包含，但建议覆盖）
 
 > [!TIP]
 > 关于适用于Windows10/11的OreUI For Windows ，请见 [OreUI For Windows](https://github.com/ReConstruction-127/OreUI-For-Windows)
