@@ -27,7 +27,10 @@
 # =============================================================================
 
 set -uo pipefail
-
+# GitHub 镜像加速
+export GIT_CONFIG_COUNT=1
+export GIT_CONFIG_KEY_0=url."https://ghfast.top/https://github.com/".insteadOf
+export GIT_CONFIG_VALUE_0=https://github.com/
 EXTENDED_URL="https://github.com/OnDreamQwQ/OreUIForEveryone-1.21.1-Extended.git"
 EXTENDED_NAME="OreUIForEveryone-1.21.1-Extend"
 DEFAULT_SRC="$HOME/桌面/orked-clone/OreUIForEveryone-1.21.1-Extended"
