@@ -184,4 +184,6 @@ Delta, torcherino
 Re_Construction, titanium
 
 
-OnDreamQwQ, draconicevolution, appleskin, curios, jdte, justdirethings, l2hostility, l2tabs, lightmanscurrency, mekanism, refinedstorage (1.21.1适配, 来自 OreUIForEveryone-1.21.1-Extend)
+OnDreamQwQ, forbidden_arcanus
+
+OnDreamQwQ, trashslot
