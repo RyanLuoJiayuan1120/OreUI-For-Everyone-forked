@@ -81,7 +81,9 @@ if ! git merge -X theirs --no-edit "$REF"; then
         CONFLICTED="$CONFLICTED $f"
         if git cat-file -e "$REF:$f" 2>/dev/null; then
             # theirs 里还有这个文件 -> 直接取 theirs 版本
-            git checkout --theirs -f -- "$f" || { echo "错误: 无法取 theirs 版本: $f"; exit 1; }
+            # 注意: 冲突状态下 `git checkout --theirs` 与 -f 互斥, 且 modify/delete 冲突
+            #       没有可用的 theirs 暂存项; 因此直接从源仓库引用取文件, 同时更新工作区与暂存区。
+            git checkout "$REF" -- "$f" || { echo "错误: 无法取 theirs 版本: $f"; exit 1; }
             git add -- "$f"
             echo "    已取源仓库版本: $f"
         else
