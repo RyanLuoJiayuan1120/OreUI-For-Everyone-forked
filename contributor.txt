@@ -24,9 +24,7 @@ Re_Construction, alexscaves
 
 Re_Construction, ali
 
-OnDreamQwQ, apotheosis
 
-OnDreamQwQ, attributeslib
 
 AL, betteradvancements
 
@@ -68,7 +66,6 @@ Re_Construction, custommachinary
 
 Delta, cyclopscore
 
-OnDreamQwQ, draconicevolution
 
 Re_Construction, easyrepair
 
@@ -92,7 +89,6 @@ Delta, farmersdelight (JEI适配)
 
 Delta, fluxnetworks (JEI适配)
 
-OnDreamQwQ, forbidden_arcanus
 
 Delta, fpsreducer
 
@@ -130,7 +126,6 @@ Delta, jei_mekanism_multiblocks
 
 Delta, jeresources
 
-OnDreamQwQ, l2tabs
 
 Re_Construction, ldlib
 
@@ -138,7 +133,6 @@ Delta, ldlib (icons)
 
 Delta, libipn
 
-OnDreamQwQ, lightmanscurrency
 
 Delta, lychee
 
@@ -206,4 +200,4 @@ Delta, torcherino
 
 Re_Construction, trashcans
 
-OnDreamQwQ, trashslot
+OnDreamQwQ, apotheosis, aeroworks, apothic_attributes, apothic_enchanting, appleskin, curios, jdte, justdirethings, l2hostility, l2tabs, lightmanscurrency, refinedstorage, simulated, simurail, synaxis (1.21.1适配, 来自 OreUIForEveryone-1.21.1-Extend)
